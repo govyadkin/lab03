@@ -21,4 +21,4 @@ script:
 - cmake --build .
 
 notifications:
-email: false
+    email: false
